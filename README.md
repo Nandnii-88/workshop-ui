@@ -71,7 +71,7 @@ npm run build
 👉 Add your deployed link here:
 
 ```
-https://your-site-link.netlify.app
+https://workshop-booking-nandniii.netlify.app/
 ```
 
 ---
