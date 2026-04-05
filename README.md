@@ -15,12 +15,6 @@ A modern and responsive **Workshop Booking Web Application UI** built using Reac
 
 ---
 
-## 📸 Preview
-
-![Preview](https://via.placeholder.com/800x400.png?text=Workshop+UI+Preview)
-
----
-
 ## 🛠️ Tech Stack
 
 * React.js
@@ -78,7 +72,7 @@ https://workshop-booking-nandniii.netlify.app/
 
 ## 👨‍💻 Author
 
-* Your Name
+* Nandni Nirmal
 
 ---
 
